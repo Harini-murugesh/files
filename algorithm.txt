@@ -1,0 +1,7 @@
+1.Start
+2.Read the three numbers from the user
+3.Declare variables for the sum and average
+4.Calculate the sum by adding the three numbers together
+5.Calculate the average by dividing the sum by 3
+6.Display the sum and average
+7.End
